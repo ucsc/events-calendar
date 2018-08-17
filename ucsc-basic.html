@@ -82,12 +82,13 @@
       width: calc(100% - 5.625em);
       margin: 0 0 10px 0;
       margin: 0 0 0.625em 0;
+      float: right;
     }
 
     /* event title */
     .localist_widget_container div.lw_event_item_title {
       color: #444;
-      font-weight: bold;
+      font-weight: normal;
       line-height: 1.5;
 
     }
@@ -107,7 +108,6 @@
      height: 4.375em;
      padding-top: 10px;
      padding-top: 0.625em;
-     font-size: 1.2em;
      clear: both;
      color: white;
      background-color: #007988;
@@ -116,9 +116,18 @@
      margin-bottom: 0.625em;
      font-weight: 100;
      text-transform: uppercase;
-     font-size: 1rem;
      line-height: 1.5;
     }
+
+    /*Date Day class to match UCSC*/
+    .lw_event_item_dates {
+        margin: 0 15px;
+        margin: 0 0.9375em;
+    }
+    .lw_event_item_dates span {
+        font-weight: bold;
+    }
+
 
     /* event location and time shared code */
     .localist_widget_container div.lw_event_item_location,
@@ -255,7 +264,7 @@
                 <div class="lw_event_item_dates">
                 {% event_time event order:"date" date_format:settings.date_format %}
               </div>
-
+              </div>
             <div class="lw_event_content">
               <div class="lw_event_item_title">
                 <a href="{{ event.url }}"{% if settings.target_blank %} target="_blank"{% endif %}{% if settings.expand_descriptions %} onclick="mc_$$ID$$_util.toggle(this); return false;"{% endif %}>{{ event.name }}</a>
