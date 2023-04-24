@@ -5,3 +5,5 @@ This resource is continuously expanding. If you have an issue that is not addres
 You may also contact [Jason Chafin](https://campusdirectory.ucsc.edu/cd_detail?uid=jchafin) if you need additional help.
 
 [Add a calendar to your webpage](add-calendar-widget-to-web-page.md).
+
+[Become a Group Administrator](become-group-admin.md)
