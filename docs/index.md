@@ -3,3 +3,5 @@ Welcome to the [UC Santa Cruz Events Calendar](https://calendar.ucsc.edu/) wiki.
 This resource is continuously expanding. If you have an issue that is not addressed here, you may find it in [The Localist Knowledge Base](https://support.localist.com/).
 
 You may also contact [Jason Chafin](https://campusdirectory.ucsc.edu/cd_detail?uid=jchafin) if you need additional help.
+
+[Add a calendar to your webpage](add-calendar-widget-to-web-page.md).
