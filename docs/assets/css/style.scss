@@ -3,4 +3,10 @@
 
 @import "{{ site.theme }}";
 
-.main-content h2 {color: orange}
+.site-nav {
+	display: flex;
+	flex-direction: row;
+	padding: 0;
+	list-style-type: none;
+
+}
