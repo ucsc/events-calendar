@@ -3,6 +3,6 @@
 
 @import "{{ site.theme }}";
 @import "variables";
-// @import "navigation";
+@import "navigation";
 @import "layout";
 
