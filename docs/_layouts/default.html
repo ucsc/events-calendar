@@ -37,6 +37,7 @@
 	<main id="content" class="main-content" role="main">
 	
 	{% include breadcrumbs.html %}
+	<div class="page">
 	<div class="page-content">
 
 		{{ content }}
@@ -46,7 +47,7 @@
 		{% include navigation.html %}
 	
 	</div>
-
+</div>
 		<footer class="site-footer">
 			{% if site.github.is_project_page %}
 			<span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a>
