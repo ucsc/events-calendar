@@ -1,2 +1,3 @@
-# localist-widget-themes
-Widget Themes for UCSC Localist
+# UC Santa Cruz Events Calendar Documentation
+
+Documentation for interacting with the Events Calendar.
