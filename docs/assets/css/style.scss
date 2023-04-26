@@ -2,5 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
-@import "event-styles"
+@import "variables";
+@import "layout";
 
