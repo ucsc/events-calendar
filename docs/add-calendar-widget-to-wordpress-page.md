@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Add a Calendar to a WordPress Page
 ---
 
 This page documents the process for embedding a list of events into a website. UC Santa Cruz uses WordPress, Drupal and WCMS. The process is similar for all three platforms.

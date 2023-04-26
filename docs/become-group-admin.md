@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Become a Group Administrator in the Events Calendar
 ---
 
 If you are the administrator of an official UC Santa Cruz group, you may obtain elevated privileges for administering your group's page on the [Events Calendar](https://calendar.ucsc.edu/).

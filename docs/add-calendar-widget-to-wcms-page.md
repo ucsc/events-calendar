@@ -1,6 +1,9 @@
 ---
 layout: default
+title: Add a Calendar to a WCMS Page
 ---
+
+The following instructions will enable you to embed a calendar into a WCMS page.
 
 1. Login into WCMS using CruzID Gold and go to your site
 2. Go to _content-blocks > home-page > middle-row select text-block(1) and make a Copy(2).
