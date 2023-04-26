@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: default
 ---
 Welcome to the [UC Santa Cruz Events Calendar](https://calendar.ucsc.edu/) wiki. This wiki is a resource for interacting with the calendar and customizing its user experience. Please use the topic list in the right sidebar to navigate the articles.
 
@@ -7,6 +7,8 @@ This resource is continuously expanding. If you have an issue that is not addres
 
 You may also contact [Jason Chafin](https://campusdirectory.ucsc.edu/cd_detail?uid=jchafin) if you need additional help.
 
-[Add a calendar to your webpage](add-calendar-widget-to-web-page.md).
+[Add a calendar to your WordPress Page](add-calendar-widget-to-wordpress-page.md).
+
+[Add a calendar to your WCMS Page](add-calendar-widget-to-wordpress-page.md).
 
 [Become a Group Administrator](become-group-admin.md)
