@@ -2,7 +2,5 @@
 ---
 
 @import "{{ site.theme }}";
-@import "variables";
-@import "navigation";
-@import "layout";
+@import "site-styles.scss";
 
