@@ -1,0 +1,10 @@
+.page {
+	display: flex;
+	flex-direction: row;
+	.page-content {
+		flex: 66.66%;
+	}
+	.page-sidebar {
+		flex: 33.33%;
+	}
+}
