@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 This page documents the process for embedding a list of events into a website. UC Santa Cruz uses WordPress, Drupal and WCMS. The process is similar for all three platforms.
 
 ## Create Events Calendar Widget

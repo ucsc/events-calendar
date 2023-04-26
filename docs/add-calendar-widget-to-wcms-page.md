@@ -1,5 +1,5 @@
 ---
-
+layout: default
 ---
 
 1. Login into WCMS using CruzID Gold and go to your site
