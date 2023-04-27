@@ -1,4 +1,11 @@
 .page-header {
 	color: var(--ucsc-primary-blue);
-	background: var(--ucsc-gray);
+	background: none;
+	border-bottom: 1px solid var(--ucsc-primary-yellow);
+	text-align: left;
+	@include large {
+    max-width: 80rem;
+		padding: 0;
+		margin: 0 auto;
+  }
 	}
