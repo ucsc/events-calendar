@@ -3,7 +3,7 @@ title: UCSC Events Calendar Documentation
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
   Documentation for interacting with UCSC's Events Calendar
-
+url: "https://ucsc.github.io/events-calendar/"
 remote_theme: pages-themes/cayman@v0.2.0
 
 plugins:
