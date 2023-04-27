@@ -11,7 +11,7 @@ These privileges include:
 - customizing your groups landing page with additional group information (group's website, social media, etc.)
 - adding a banner image for your group's landing page
 
-## Create an account
+### Create an account
 
 If you haven't already done so, the first step is to create an account on the Events Calendar using your @ucsc.edu email account.
 
@@ -23,11 +23,11 @@ Once you create an account, you will get an email asking you to verify your new 
 
 ![events-create-account-screen](https://user-images.githubusercontent.com/1000543/221927726-750575da-1355-41e7-851c-fec49374ff2e.png)
 
-## Notify the authorities
+### Notify the authorities
 
 Once you have created and verified your new account, contact [Jason Chafin](https://campusdirectory.ucsc.edu/cd_detail?uid=jchafin) on the C&M Web Team. He will grant you the proper permissions.
 
-## Wield your new powers
+### Wield your new powers
 
 Now that you are a Group Administrator, go customize your page!
 
@@ -35,7 +35,7 @@ Add a description, a link to your group's website, social media properties, a cu
 
 ![events-edit-group](https://user-images.githubusercontent.com/1000543/221928054-bd6f6e7f-c1cf-4ba5-b67c-87c349f291cc.png)
 
-## Your custom link
+### Your custom link
 
 Once you are satisfied with your edits, click the "View Group Landing Page" link at the top right of the page.
 
