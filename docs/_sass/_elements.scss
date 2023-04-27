@@ -4,24 +4,21 @@ body {
 	color: var(--ucsc-black);
 }
 h1,h2,h3,h4,h5,h6 {
-	font-weight: 500
+	font-weight: 500;
+	color: var(--ucsc-black);
 }
-h1 {
+.main-content h1 {
 	font-size: $font-size-five
 }
-h2 {
+.main-content h2 {
 	font-size: $font-size-four
 }
-h3 {
+.main-content h3 {
 	font-size: $font-size-three}
-h4 {
+.main-content h4 {
 	font-size: $font-size-two}
-h5 {
+.main-content h5 {
 	font-size: $font-size-one}
-h6 {
+.main-content h6 {
 	font-size: $font-size-base
 }
-
-.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
-	color: var(--ucsc-secondary-blue);
-	}
