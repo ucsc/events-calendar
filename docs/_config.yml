@@ -2,7 +2,7 @@ title: UCSC Events Calendar Documentation
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Documentation for interacting with UCSC's Events Calendar
+  UCSC's Events Calendar Documentation
 url: "https://ucsc.github.io/events-calendar/"
 remote_theme: pages-themes/cayman@v0.2.0
 
