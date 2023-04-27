@@ -25,3 +25,20 @@ h1,h2,h3,h4,h5,h6 {
 .main-content h6 {
 	font-size: $font-size-base;
 }
+
+a {
+    color: var(--ucsc-primary-blue);
+    text-decoration-color: var(--ucsc-primary-yellow);
+    text-decoration-thickness: .12rem;
+    text-underline-offset: .12em
+}
+
+a:active,a:focus,a:hover {
+    -webkit-text-decoration-skip: ink;
+    color: var(--ucsc-secondary-blue);
+    text-decoration: underline;
+    text-decoration-color: var(--ucsc-primary-yellow);
+    text-decoration-skip-ink: auto;
+    text-decoration-thickness: .12rem;
+    text-underline-offset: .12em
+}
