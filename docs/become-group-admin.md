@@ -42,5 +42,3 @@ Once you are satisfied with your edits, click the "View Group Landing Page" link
 ![view-group-landing-page](https://user-images.githubusercontent.com/1000543/221928146-5280722a-7136-4e37-bbad-85aa6503e316.png)
 
 Take note of this link URL. This is _your group page_. You may include it in correspondence, link to it from your website, etc.
-
-You may also want to review our instructions to [add a calendar widget to your web page](https://github.com/ucsc/localist-widget-themes/wiki/Add-a-calendar-widget-to-a-web-page).
