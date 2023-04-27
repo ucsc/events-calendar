@@ -1,6 +1,7 @@
 .main-content {
 	@include large {
     max-width: 80rem;
+		padding: 2rem 0;
   }
 }
 
