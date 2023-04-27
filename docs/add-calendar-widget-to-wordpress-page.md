@@ -53,7 +53,7 @@ And the generated embed code will appear that can be copied and pasted into your
 
 ![widget-generated-embed](https://user-images.githubusercontent.com/1000543/217968107-26e565aa-4a6e-4a52-879b-745b0676b70d.png)
 
-#### Bonus: Remove Localist branding footer
+#### Pro Tip: Remove Localist branding footer
 
 The default embed code includes a footer that brands your embed as coming from Localist.
 
