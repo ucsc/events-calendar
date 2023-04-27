@@ -1,8 +1,6 @@
 nav_list_title: How to
 navigation:
 
-- title: Go Home
-  url: /events-calendar/
 - title: Become a Group Administrator
   url: become-group-admin.html
 - title: Create an Events Calendar Widget
