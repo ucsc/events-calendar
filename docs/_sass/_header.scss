@@ -1,8 +1,9 @@
 .page-header {
-	color: var(--ucsc-primary-blue);
+	color: var(--ucsc-black);
 	background: none;
 	border-bottom: 1px solid var(--ucsc-primary-yellow);
 	text-align: left;
+	margin-top: calc(1.44rem*2.25);
 	@include large {
     max-width: 80rem;
 		padding: 0;
