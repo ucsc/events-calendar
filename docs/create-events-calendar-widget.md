@@ -5,7 +5,7 @@ title: Create an Events Calendar Widget
 
 This page documents the process for creating an events calendar widget to embed in your [WordPress](add-calendar-widget-to-wordpress-page.md), [WCMS](add-calendar-widget-to-wcms-page.md), Drupal or other website.
 
-## Events Calendar Widget Builder
+### Events Calendar Widget Builder
 
 The [UCSC Events Calendar](https://calendar.ucsc.edu/) has a Widget Builder that can be accessed at the bottom of the right-hand sidebar.
 
@@ -29,7 +29,7 @@ Clicking this link will bring you to the [Widget builder](https://calendar.ucsc.
 
 ![widget-include-styles](https://user-images.githubusercontent.com/1000543/217963178-fbb0b0fb-4757-4a31-8950-482d3b2f8a66.png)
 
-## Preview Widget
+### Preview Widget
 
 Once you select your options in the Widget Builder form, a good practice is to preview the widget using the **Preview Widget** button at the bottom of the form.
 
@@ -39,7 +39,7 @@ A preview of your widget will open in a new tab.
 
 ![widget-preview-template](https://user-images.githubusercontent.com/1000543/217968380-854786e9-3a72-4798-bb66-a0705c1f58b3.png)
 
-## Generate Embed Code
+### Generate Embed Code
 
 When you are satisfied with your widget preview, click the **Generate Embed Code** button at the bottom of the Widget Builder form.
 
@@ -49,7 +49,7 @@ And the generated embed code will appear that can be copied and pasted into your
 
 ![widget-generated-embed](https://user-images.githubusercontent.com/1000543/217968107-26e565aa-4a6e-4a52-879b-745b0676b70d.png)
 
-### Pro Tip: Remove Localist branding footer
+#### Pro Tip: Remove Localist branding footer
 
 The default embed code includes a footer that brands your embed as coming from Localist.
 
