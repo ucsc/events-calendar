@@ -2,12 +2,16 @@ title: UCSC Events Calendar Documentation
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+  Documentation for interacting with UCSC's Events Calendar
 
 remote_theme: pages-themes/cayman@v0.2.0
 
 plugins:
 - jekyll-remote-theme
+
+admin:
+  admin_name: "Jason Chafin"
+  admin_title: "Senior Web Developer, Communications and Marketing"
+  admin_url: "https://campusdirectory.ucsc.edu/cd_detail?uid=jchafin"
+  admin_email: "jchafin@ucsc.edu"
   
