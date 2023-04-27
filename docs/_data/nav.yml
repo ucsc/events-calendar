@@ -1,10 +1,13 @@
-nav_list_title: UCSC Events List Documentation
+nav_list_title: How to
 navigation:
-- title: Home
+
+- title: Go Home
   url: /events-calendar/
+- title: Become a Group Administrator
+  url: become-group-admin.html
+- title: Create an Events Calendar Widget
+  url: create-events-calendar-widget.html
 - title: Add a Calendar to WordPress
   url: add-calendar-widget-to-wordpress-page.html
 - title: Add a Calendar to WCMS
   url: add-calendar-widget-to-wcms-page.html
-- title: Become a Group Administrator
-  url: become-group-admin.html
