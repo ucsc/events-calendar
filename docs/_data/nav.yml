@@ -2,9 +2,9 @@ nav_list_title: UCSC Events List Documentation
 navigation:
 - title: Home
   url: /events-calendar/
-- title: Add Calendar to WordPress
+- title: Add a Calendar to WordPress
   url: add-calendar-widget-to-wordpress-page.html
-- title: Add Calendar to WCMS
+- title: Add a Calendar to WCMS
   url: add-calendar-widget-to-wcms-page.html
 - title: Become a Group Administrator
   url: become-group-admin.html
