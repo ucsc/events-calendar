@@ -13,7 +13,7 @@ The [UCSC Events Calendar](https://calendar.ucsc.edu/) has a Widget Builder that
 
 ![Selection_001](https://user-images.githubusercontent.com/1000543/217919948-9735e414-04af-4ddc-b1e0-2991a30b5553.png)
 
-Clicking this link will bring you to the **Widget Builder** page where you will be met with a series of prompts to customize your embed. Customize your widget using this form; however,
+Clicking this link will bring you to the [Widget builder](https://calendar.ucsc.edu/help/widget) page where you will be met with a series of prompts to customize your embed. Customize your widget using this form; however,
 
 #### There are a few items to pay special attention to
 
