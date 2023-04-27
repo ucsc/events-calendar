@@ -35,8 +35,9 @@
 	</header>
 
 	<main id="content" class="main-content" role="main">
-	
+	{% unless {{site.url}} %}
 	{% include breadcrumbs.html %}
+	{% endunless %}
 	<div class="page">
 	<div class="page-content">
 		{{ content }}
