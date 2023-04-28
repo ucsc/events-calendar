@@ -1,7 +1,7 @@
 
 
 window.addEventListener('load', function (){
-	let offset = 100;
+	let offset = 400;
 	let speed = 250;
 	let duration = 500;
 	let toTop = document.querySelector(".topbutton");
