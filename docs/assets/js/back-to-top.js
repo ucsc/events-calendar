@@ -15,3 +15,17 @@ jQuery(document).ready(function ($) {
 		return false;
 	});
 });
+
+// pastebin
+window.scroll(function () {
+	if (this.scrollTop() < offset) {
+		toTop.fadeOut(duration);
+	} else {
+		toTop.fadeIn(duration);
+	}
+});
+
+toTop.addEventListener('click', (e) => {
+	$('html, body').animate({ scrollTop: 0 }, speed);
+	return false;
+});
