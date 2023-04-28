@@ -2,7 +2,7 @@
 let offset = 100;
 let speed = 250;
 let duration = 500;
-let toTop = document.querySelector("a.topbutton");
+let toTop = document.querySelector(".topbutton");
 let btnVisibility = () => {
 	if (window.scrollY > 400) {
 		toTop.style.visibility = "visible";
