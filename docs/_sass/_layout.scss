@@ -17,9 +17,19 @@
 	}
 }
 
-.topbutton .fa {
-	color: var(--ucsc-white);
-	background-color:var(--ucsc-primary-yellow);
-	padding: 0 5px 5px;
-	border-radius:50%;
+.topbutton {
+	height: 50px;
+	width: 50px;
+	position: fixed;
+	right: 15px;
+	bottom: 30px;
+	z-index: 99999;
+	background-repeat: no-repeat;
+	display: none;
+	.fa {
+		color: var(--ucsc-white);
+		background-color:var(--ucsc-primary-yellow);
+		padding: 0 5px 5px;
+		border-radius:50%;
+	}
 }
