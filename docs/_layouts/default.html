@@ -39,14 +39,10 @@
 	<div class="page-sidebar">
 	
 		{% include navigation.html %}
-		<div class="contact-info">
-		<h4>Contact</h4>
-		<p><a
-				href="{{site.admin.admin_url}}">{{ site.admin.admin_name }}<br />{{ site.admin.admin_title }}<br />{{ site.admin.admin_dpt }}<br />{{ site.admin.admin_div }}</a>
-		</p>
+		{% include contact-info.html %}
 		</div>
-	</div>
-</div>
+		</div>
+
 </main>
 <footer class="site-footer">
 	<trss-ucsc-footer style="--trss-content-width:80rem;" class="sc-trss-ucsc-footer-h sc-trss-ucsc-footer-s hydrated">
