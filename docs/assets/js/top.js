@@ -1,7 +1,6 @@
 
 
 window.addEventListener('load', function (){
-	alert("it's loaded!");
 	let offset = 100;
 	let speed = 250;
 	let duration = 500;
