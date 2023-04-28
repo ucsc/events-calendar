@@ -19,7 +19,7 @@ If you haven't already done so, the first step is to create an account using you
 
 ![events-login-link](https://user-images.githubusercontent.com/1000543/221927507-b822298e-b9d8-4354-a45f-da0fee6da67f.png)
 
-You may create a user account and password the old fashioned way but you may also "Login with Google" and select your UCSC account to create an account based on that information.
+You may create a user account and password the old fashioned way but you may also "Login with Google" and select your UCSC account to create an account.
 
 Once you create an account, you will get an email asking you to verify your new account. _**Please check your email inbox**_.
 
@@ -27,11 +27,11 @@ Once you create an account, you will get an email asking you to verify your new 
 
 ### Notify the authorities
 
-Once you have created and verified your new account, contact [Jason Chafin](https://campusdirectory.ucsc.edu/cd_detail?uid=jchafin) on the C&M Web Team. He will grant you the proper permissions.
+Once you have _created_ and _verified_ your new account, contact **[Jason Chafin](https://campusdirectory.ucsc.edu/cd_detail?uid=jchafin)** on the **C&M Web Team**. He will grant you the proper permissions.
 
 ### Wield your new powers
 
-Now that you are a Group Administrator, go customize your page!
+Now that you are a **Group Administrator**, go customize your page!
 
 Add a description, a link to your group's website, social media properties, a custom banner image.
 
