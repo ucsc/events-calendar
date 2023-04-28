@@ -11,6 +11,8 @@ These privileges include:
 - customizing your group's landing page with additional group information (group's website, social media, etc.)
 - adding a banner image for your group's landing page
 
+The firs thing to do is ...
+
 ### Create an account
 
 If you haven't already done so, the first step is to create an account on the Events Calendar using your @ucsc.edu email account.
