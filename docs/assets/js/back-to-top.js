@@ -1,31 +1,18 @@
-jQuery(document).ready(function ($) {
-	var offset = 100;
-	var speed = 250;
-	var duration = 500;
-	$(window).scroll(function () {
-		if ($(this).scrollTop() < offset) {
-			$('.topbutton').fadeOut(duration);
+window.addEventListener('load', function () {
+	let offset = 400;
+	let toTop = document.querySelector(".topbutton");
+	let btnVisibility = () => {
+		if (window.scrollY < offset) {
+			toTop.style.visibility = "hidden";
 		} else {
-			$('.topbutton').fadeIn(duration);
+			toTop.style.visibility = "visible";
 		}
+	};
+	document.addEventListener("scroll", () => {
+		btnVisibility();
 	});
-
-	$('.topbutton').on('click', function () {
-		$('html, body').animate({ scrollTop: 0 }, speed);
-		return false;
+	toTop.addEventListener('click', function (e) {
+		e.preventDefault();
+		window.scroll({ top: 0, left: 0, behavior: 'smooth' });
 	});
-});
-
-// pastebin
-window.scroll(function () {
-	if (this.scrollTop() < offset) {
-		toTop.fadeOut(duration);
-	} else {
-		toTop.fadeIn(duration);
-	}
-});
-
-toTop.addEventListener('click', (e) => {
-	$('html, body').animate({ scrollTop: 0 }, speed);
-	return false;
 });
