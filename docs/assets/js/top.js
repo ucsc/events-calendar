@@ -5,9 +5,9 @@ let duration = 500;
 let toTop = document.querySelector(".topbutton");
 let btnVisibility = () => {
 	if (window.scrollY < offset) {
-		toTop.fadeOut(duration);
+		toTop.style.visibility = "visible";
 	} else {
-		toTop.fadeIn(duration);
+		toTop.style.visibility = "hidden";
 	}
 };
 document.addEventListener("scroll", () => {
