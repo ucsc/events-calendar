@@ -13,7 +13,9 @@
 			text-decoration: none;
 		}
 	}
-	
+	@include small {
+		margin: 0 auto;
+	}
 	@include large {
     max-width: 80rem;
 		padding: 0;
