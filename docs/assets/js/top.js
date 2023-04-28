@@ -5,7 +5,7 @@ let duration = 500;
 let toTop = document.querySelector(".topbutton");
 let btnVisibility = () => {
 	if (window.scrollY < offset) {
-		toTop.style.visibility = "visible";
+		toTop.style.visibility = "hidden";
 	}// else {
 	// 	toTop.style.visibility = "hidden";
 	// }
@@ -18,4 +18,4 @@ toTop.addEventListener('click', function (e) {
 	window.scroll({ top: 0, left: 0, behavior: 'smooth' });
 });
 
-console.log("toTop");
+console.log("Hello World");
