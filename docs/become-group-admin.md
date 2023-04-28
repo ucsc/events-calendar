@@ -11,7 +11,7 @@ These privileges include:
 - customizing your group's landing page with additional group information (group's website, social media, etc.)
 - adding a banner image for your group's landing page
 
-The firs thing to do is ...
+The first thing to do is ...
 
 ### Create an account
 
