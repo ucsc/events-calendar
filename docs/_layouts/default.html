@@ -13,6 +13,7 @@
 	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 	<link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 	{% include head-custom.html %}
+	<script src="{{ base.url | prepend: site.url}}/assets/js/back-to-top.js"></script>
 	<script type="module" src="https://unpkg.com/@ucsantacruz/truss@latest/dist/ucsc-trss/ucsc-trss.esm.js"></script>
 	<link rel="stylesheet" href="https://unpkg.com/@ucsantacruz/truss@latest/dist/ucsc-trss/ucsc-trss.css">
 </head>
@@ -51,6 +52,7 @@
 	<trss-ucsc-footer style="--trss-content-width:80rem;" class="sc-trss-ucsc-footer-h sc-trss-ucsc-footer-s hydrated">
 	</trss-ucsc-footer>
 </footer>
+{% include back-to-top.html %}
 </body>
 
 </html>
