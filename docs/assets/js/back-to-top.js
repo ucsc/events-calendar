@@ -1,4 +1,4 @@
-window.addEventListener('load', function () {
+function backToTop() {
 	let offset = 400;
 	let toTop = document.querySelector(".topbutton");
 	let btnVisibility = () => {
@@ -15,4 +15,6 @@ window.addEventListener('load', function () {
 		e.preventDefault();
 		window.scroll({ top: 0, left: 0, behavior: 'smooth' });
 	});
-});
+}
+
+window.addEventListener('load', backToTop );
