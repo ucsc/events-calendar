@@ -7,7 +7,7 @@ This page documents the process for creating an events calendar widget to embed 
 
 ### Events Calendar Widget Builder
 
-The [UCSC Events Calendar](https://calendar.ucsc.edu/) has a Widget Builder that can be accessed at the bottom of the right-hand sidebar.
+The [UCSC Events Calendar](https://calendar.ucsc.edu/) has a [Widget builder](https://calendar.ucsc.edu/help/widget) that can be accessed at the bottom of the right-hand sidebar.
 
 ![Selection_001](https://user-images.githubusercontent.com/1000543/217919948-9735e414-04af-4ddc-b1e0-2991a30b5553.png)
 
