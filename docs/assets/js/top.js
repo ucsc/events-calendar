@@ -4,10 +4,10 @@ let speed = 250;
 let duration = 500;
 let toTop = document.querySelector(".topbutton");
 let btnVisibility = () => {
-	if (window.scrollY > 400) {
-		toTop.style.visibility = "visible";
+	if (window.scrollY < offset) {
+		$('.topbutton').fadeOut(duration);
 	} else {
-		toTop.style.visibility = "hidden";
+		$('.topbutton').fadeIn(duration);
 	}
 };
 document.addEventListener("scroll", () => {
