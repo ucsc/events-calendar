@@ -15,7 +15,7 @@ The first thing to do is ...
 
 ### Create an account
 
-If you haven't already done so, the first step is to create an account on the Events Calendar using your **@ucsc.edu** email account.
+If you haven't already done so, the first step is to create an account using your **@ucsc.edu** email account.
 
 ![events-login-link](https://user-images.githubusercontent.com/1000543/221927507-b822298e-b9d8-4354-a45f-da0fee6da67f.png)
 
