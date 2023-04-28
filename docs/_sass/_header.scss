@@ -4,6 +4,10 @@
 	border-bottom: 1px solid var(--ucsc-primary-yellow);
 	text-align: left;
 	margin: calc(1.44rem*2.25) auto 0;
+	.project-name > a {
+		color: #222;
+		text-decoration: none;
+	}
 	@include large {
     max-width: 80rem;
 		padding: 0;
