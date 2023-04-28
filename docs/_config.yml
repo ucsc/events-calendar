@@ -12,6 +12,12 @@ plugins:
 - jekyll-sitemap
 - jekyll-assets
 
+# Build settings
+markdown: kramdown
+kramdown:
+  auto_ids: false
+  parse_block_html: false
+
 admin:
   admin_name: "Jason Chafin"
   admin_title: "Senior Web Developer, C&amp;M Web Team"
