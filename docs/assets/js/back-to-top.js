@@ -9,6 +9,7 @@ jQuery(document).ready(function ($) {
 			$('.topbutton').fadeIn(duration);
 		}
 	});
+
 	$('.topbutton').on('click', function () {
 		$('html, body').animate({ scrollTop: 0 }, speed);
 		return false;
