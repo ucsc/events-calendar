@@ -8,6 +8,9 @@
 .page {
 	display: flex;
 	flex-direction: row;
+	@include small {
+    flex-direction:column-reverse;
+  }
 	.page-content {
 		flex: 66.66%;
 	}
