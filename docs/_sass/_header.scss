@@ -6,7 +6,8 @@
 	margin: calc(1.44rem*2.25) auto 0;
 	.project-name {
 		@include small {
-			text-align: center
+			text-align: center;
+			font-size: $font-size-two;
 		}
 		& > a {
 			color: #222;
