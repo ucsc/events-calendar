@@ -19,7 +19,7 @@ If you haven't already done so, the first step is to create an account on the Ev
 
 ![events-login-link](https://user-images.githubusercontent.com/1000543/221927507-b822298e-b9d8-4354-a45f-da0fee6da67f.png)
 
-You may create a user account and password the old fashioned way. You may also "Login with Google" and select your UCSC account to create an account based on that information.
+You may create a user account and password the old fashioned way but you may also "Login with Google" and select your UCSC account to create an account based on that information.
 
 Once you create an account, you will get an email asking you to verify your new account. _**Please check your email inbox**_.
 
