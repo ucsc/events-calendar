@@ -13,6 +13,14 @@
   }
 	.page-content {
 		flex: 66.66%;
+	& > .contact-info {
+		@include large {
+			display: none;
+		}
+		@include small {
+			display: block;
+		}
+	}
 	}
 
 	.page-sidebar {
