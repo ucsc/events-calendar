@@ -1,6 +1,6 @@
 ---
 layout: default
-home: true;
+home: true
 ---
 Welcome to the [UC Santa Cruz Events Calendar](https://calendar.ucsc.edu/) documentation. This is a resource for interacting with the calendar and customizing its user experience. Please use the topic list in the right sidebar to navigate the articles.
 
