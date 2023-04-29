@@ -8,7 +8,7 @@ If you are the administrator of an official UC Santa Cruz group, you may obtain 
 These privileges include:
 
 - bypassing the "pending" queue when creating an event
-- customizing your group's landing page with additional group information (group's website, social media, etc.)
+- customizing your group's landing page with additional group information (website, social media, etc.)
 - adding a banner image for your landing page
 
 The first thing to do is ...
