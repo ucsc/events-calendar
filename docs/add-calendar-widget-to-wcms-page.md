@@ -3,7 +3,7 @@ layout: default
 title: Add a Calendar to a WCMS Page
 ---
 
-If you manage a WCMS website and have [created an Events Calendar widget](create-events.-calendar-widget.md), these instructions will show you how to embed a calendar into a page on your site.
+If you manage a WCMS website and have [created an Events Calendar widget](create-events-calendar-widget.md), these instructions will show you how to embed a calendar into a page on your site.
 
 Login into WCMS using **CruzID Gold** and go to your site.
 
