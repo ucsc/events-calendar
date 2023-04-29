@@ -21,11 +21,11 @@ Select your new block and click edit.
 
 ![image6](https://user-images.githubusercontent.com/1000543/234380569-46196f80-9a11-49b6-b373-02f283f83e0a.jpg)
 
-Enter the title of your calendar block in the Title: First Word and Title: Second Word.
+Enter the title of your calendar block in the **Title: First Word** and **Title: Second Word**.
 
 ![image5](https://user-images.githubusercontent.com/1000543/234380567-64be0a31-5785-40ef-84be-16eb0d6710c1.png)
 
-In the Text field WYSIWYG select Source Code.
+In the Text field WYSIWYG select **Source Code**.
 
 ![image11](https://user-images.githubusercontent.com/1000543/234380584-646e7e9c-025c-460e-aab3-f1ebff635567.png)
 
@@ -35,13 +35,13 @@ Source code window will pop up, paste in your [Widget Builder code](create-event
 
 Submit your Events Block **(1)**
 
-  ![image2](https://user-images.githubusercontent.com/1000543/234380379-ce4619be-afce-4d3f-9ae1-5e45537e9c02.jpg)
+![image2](https://user-images.githubusercontent.com/1000543/234380379-ce4619be-afce-4d3f-9ae1-5e45537e9c02.jpg)
 
-Go to your site content, select your home page index and click on edit
+Go to your site content, select your home page index and click on edit.
 
 ![image8](https://user-images.githubusercontent.com/1000543/234380574-93c4fbef-a1ce-4fca-94ad-82f71fbcc131.jpg)
 
-Scroll to the bottom, you will see Middle Row Left Block, Middle Row Center Block and Middle Row Right Block. Select the field you want to replace it with calendar block
+Scroll to the bottom, you will see Middle Row Left Block, Middle Row Center Block and Middle Row Right Block. Select the field you want to replace it with calendar block.
 
 ![image1](https://user-images.githubusercontent.com/1000543/234380228-9d1fe4ac-04cb-404e-b5d3-1ac0da8efa9a.png)
 
