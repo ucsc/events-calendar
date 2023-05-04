@@ -2,7 +2,7 @@
 layout: default
 title: Add a Calendar to a WCMS Page
 ---
-<iframe width="560" height="315" src="https://youtu.be/_M0CQPEoH58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_M0CQPEoH58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you manage a WCMS website and have [created an Events Calendar widget](create-events-calendar-widget.md), these instructions will show you how to embed a calendar into a page on your site.
 
