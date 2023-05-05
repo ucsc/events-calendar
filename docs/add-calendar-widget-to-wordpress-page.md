@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Add a Calendar to a WordPress Page
+order: 3
 ---
 
 Once you [create an Events Calendar widget](create-events-calendar-widget.md), you'll want to embed it into your site. Many UC Santa Cruz websites use the [WordPress](https://wordpress.org/) platform, which mainly uses block-based content editing.
