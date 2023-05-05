@@ -6,7 +6,7 @@ order: 4
 
 If you manage a WCMS website and have [created an Events Calendar widget](create-events-calendar-widget.md), these instructions will show you how to embed a calendar into a page on your site.
 
-{% include youtube.html id='QH2-TGUlwu4' %}
+{% include youtube.html id='_M0CQPEoH58' %}
 
 Login into WCMS using **CruzID Gold** and go to your site.
 
