@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Create an Events Calendar Widget
+order: 2
 ---
 
 This page documents the process for creating an events calendar widget to embed in your [WordPress](add-calendar-widget-to-wordpress-page.md), [WCMS](add-calendar-widget-to-wcms-page.md), Drupal or other website.
