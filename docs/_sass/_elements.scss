@@ -46,7 +46,7 @@ a:active,a:focus,a:hover {
 details {
 	position: relative;
 	display: none;
-	@include small {
+	@include medium {
 		display:block
 	}
 }
