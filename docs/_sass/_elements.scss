@@ -82,7 +82,7 @@ a:active,a:focus,a:hover {
 details {
 	position: relative;
 	display: block;
-	border: 1px solid #aaa;
+	border: 1px solid var(--ucsc-gray);
 	padding: 0.5em 0.5em 0;
 	@include large {
 		display:none;
@@ -95,7 +95,7 @@ details {
 details summary {
 	box-sizing: border-box;
 	width: 100%;
-	padding: var($font-size-small);
+	padding: $font-size-small;
 	padding-left: 1.5rem;
 	list-style: none;
 	cursor: pointer;
