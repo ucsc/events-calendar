@@ -2,22 +2,20 @@
 	color: var(--ucsc-black);
 	background: none;
 	border-bottom: 1px solid var(--ucsc-primary-yellow);
-	text-align: left;
-	margin: calc(1.44rem*2.25) auto 0;
-	.project-name {
-		@include small {
-			text-align: center;
+	margin: 0 auto;
+	text-align:center;
+	@include medium {
+			text-align: left;
 		}
-		& > a {
-			color: #222;
-			text-decoration: none;
-		}
-	}
-	@include small {
-		margin: 0 auto;
-	}
 	@include large {
     max-width: 80rem;
 		padding: 0;
+		margin: calc(1.44rem*2.25) auto 0;
   }
+	.project-name {
+		& > a {
+			color: var(--ucsc-black);
+			text-decoration: none;
+		}
+	}
 }
