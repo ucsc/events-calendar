@@ -78,9 +78,7 @@ details summary:hover {
 }
 
 details[open] > summary {
-	color: var(--ucsc-primary-blue);
 	font-weight: 600;
-	border-bottom: 1px solid var(--ucsc-primary-yellow);
 }
 
 details[open] summary::before {
