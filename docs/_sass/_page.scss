@@ -1,3 +1,5 @@
 .page-title {
-	margin-top: 0;
+	@include small {
+		margin-top: 0;
+	}
 }
