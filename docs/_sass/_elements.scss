@@ -82,6 +82,8 @@ a:active,a:focus,a:hover {
 details {
 	position: relative;
 	display: block;
+	border: 1px solid #aaa;
+	padding: 0.5em 0.5em 0;
 	@include large {
 		display:none;
 		margin:0;
