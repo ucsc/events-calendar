@@ -9,9 +9,6 @@
 	p {
 		font-size: var(--font-size-sm)
 	}
-	@include small {
-    display: none;
-  }
 }
 
 .page-content > .contact-info {
