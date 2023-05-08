@@ -48,6 +48,8 @@ details {
 	display: block;
 	@include large {
 		display:none;
+		margin:0;
+		padding: 0;
 	}
 }
 
