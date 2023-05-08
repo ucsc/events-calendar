@@ -3,3 +3,17 @@
 		margin-top: 0!important;
 	}
 }
+
+.index.md {
+	.above {
+		@include large {
+			display: none;
+		}
+	}
+	.to-the-right {
+		display:none;
+		@include large {
+			display:inline;
+		}
+	}
+}
