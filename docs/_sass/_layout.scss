@@ -21,6 +21,7 @@
 	.page-sidebar {
 		display: none;
 		@include large {
+			display:block;
 			flex: 33.33%;
 			padding-left: 1.5rem;
 		}
