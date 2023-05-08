@@ -118,7 +118,6 @@ details summary::before {
 details summary:focus,
 details summary:hover {
 	outline: none;
-	color: var(--ucsc-primary-blue);
 }
 
 details[open] > summary {
