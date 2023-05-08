@@ -9,21 +9,57 @@ h1,h2,h3,h4,h5,h6 {
 }
 .main-content h1 {
 	font-size: $font-size-five;
+	@include medium {
+		font-size: $font-size-five
+	}
+	@include large {
+		font-size: $font-size-five
+	}
 }
 .main-content h2 {
 	font-size: $font-size-four;
+	@include medium {
+		font-size: $font-size-four
+	}
+	@include large {
+		font-size: $font-size-four
+	}
 }
 .main-content h3 {
 	font-size: $font-size-three;
+	@include medium {
+		font-size: $font-size-three
+	}
+	@include large {
+		font-size: $font-size-three
+	}
 }
 .main-content h4 {
 	font-size: $font-size-two;
+	@include medium {
+		font-size: $font-size-two
+	}
+	@include large {
+		font-size: $font-size-two
+	}
 }
 .main-content h5 {
 	font-size: $font-size-one;
+	@include medium {
+		font-size: $font-size-one
+	}
+	@include large {
+		font-size: $font-size-one
+	}
 }
 .main-content h6 {
 	font-size: $font-size-base;
+	@include medium {
+		font-size: $font-size-base
+	}
+	@include large {
+		font-size: $font-size-base
+	}
 }
 
 a {
