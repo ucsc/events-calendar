@@ -1,6 +1,6 @@
 .trss-ucsc-header > .trss-row__inner, header, main, .trss-ucsc-footer > .trss-ucsc-footer__inner {
-	padding-left: $ucsc-spacer;
-	padding-right: $ucsc-spacer;}
+	padding-left: $ucsc-spacer!important;
+	padding-right: $ucsc-spacer!important;}
 
 .main-content {
 	@include large {
