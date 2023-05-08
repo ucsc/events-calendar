@@ -1,3 +1,7 @@
+.trss-ucsc-header > .trss-row__inner, header, main, .trss-ucsc-footer > .trss-ucsc-footer__inner {
+	padding-left: $ucsc-spacer;
+	padding-right: $ucsc-spacer;}
+
 .main-content {
 	@include large {
     max-width: 80rem;
