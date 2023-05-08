@@ -26,9 +26,9 @@ h1,h2,h3,h4,h5,h6 {
 	}
 }
 .main-content h3 {
-	font-size: $font-size-three;
+	font-size: calc($font-size-three / 0.3);
 	@include medium {
-		font-size: $font-size-three
+		font-size: $font-size-three;
 	}
 	@include large {
 		font-size: $font-size-three
