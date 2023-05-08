@@ -13,3 +13,12 @@
     display: none;
   }
 }
+
+.page-content > .contact-info {
+		@include large {
+			display: none;
+		}
+		@include medium {
+			display: block;
+		}
+	}
