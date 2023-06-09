@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Become a Group Administrator
-order: 1
+order: 2
 ---
 
-If you are the administrator of an official UC Santa Cruz group, you may obtain elevated privileges for administering your group's page on the [Events Calendar](https://calendar.ucsc.edu/).
+If you have already [created a calendar account](create-calendar-account.md) and you are the administrator of an official UC Santa Cruz group, you may obtain elevated privileges for administering your group's page(s) on the [Events Calendar](https://calendar.ucsc.edu/).
 
 These privileges include:
 
@@ -12,25 +12,11 @@ These privileges include:
 - customizing your group's landing page with additional group information (website, social media, etc.)
 - adding a banner image for your landing page
 
-The first thing to do is ...
-
-### Create an account
-
-If you haven't already done so, the first step is to create an account using your **@ucsc.edu** email account.
-
-![events-login-link](https://user-images.githubusercontent.com/1000543/221927507-b822298e-b9d8-4354-a45f-da0fee6da67f.png)
-
-You may create a user account and password the old fashioned way but you may also "Login with Google" and select your UCSC account to create an account.
-
-Once you create an account, you will get an email asking you to verify your new account. _**Please check your email inbox**_.
-
-![events-create-account-screen](https://user-images.githubusercontent.com/1000543/221927726-750575da-1355-41e7-851c-fec49374ff2e.png)
-
-### Notify the authorities
+## Contact the Web Team
 
 Once you have _created_ and _verified_ your new account, contact **[Jason Chafin](https://campusdirectory.ucsc.edu/cd_detail?uid=jchafin)** on the **C&M Web Team**. He will grant you the proper permissions.
 
-### Wield your new powers
+## Wield your new powers
 
 Now that you are a **Group Administrator**, go customize your page!
 

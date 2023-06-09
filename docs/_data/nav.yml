@@ -1,11 +1,13 @@
 nav_list_title: "How to"
 navigation:
 
+- title: Create an Account
+  url: create-calendar-account.html
 - title: Become a Group Administrator
   url: become-group-admin.html
-- title: Create an Events Calendar Widget
+- title: Create a Calendar Widget
   url: create-events-calendar-widget.html
-- title: Add a Calendar to WordPress
+- title: Add a Calendar Widget to WordPress
   url: add-calendar-widget-to-wordpress-page.html
-- title: Add a Calendar to WCMS
+- title: Add a Calendar Widget to WCMS
   url: add-calendar-widget-to-wcms-page.html
