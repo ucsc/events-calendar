@@ -12,11 +12,11 @@ These privileges include:
 - customizing your group's landing page with additional group information (website, social media, etc.)
 - adding a banner image for your landing page
 
-## Contact the Web Team
+### Contact the Web Team
 
 Once you have _created_ and _verified_ your new account, contact **[Jason Chafin](https://campusdirectory.ucsc.edu/cd_detail?uid=jchafin)** on the **C&M Web Team**. He will grant you the proper permissions.
 
-## Wield your new powers
+### Wield your new powers
 
 Now that you are a **Group Administrator**, go customize your page!
 
