@@ -11,10 +11,11 @@ These privileges include:
 - bypassing the "pending" queue when creating an event
 - customizing your group's landing page with additional group information (website, social media, etc.)
 - adding a banner image for your landing page
+- other super fun stuff
 
 ### Contact the Web Team
 
-Once you have _created_ and _verified_ your new account, contact **[Jason Chafin](https://campusdirectory.ucsc.edu/cd_detail?uid=jchafin)** on the **C&M Web Team**. He will grant you the proper permissions.
+Once you have _created_ and _verified_ your new account, contact **[Jason Chafin](https://campusdirectory.ucsc.edu/cd_detail?uid=jchafin)** on the **C&M Web Team**. Let him know what group you administer and he will grant you the proper permissions to administer your group.
 
 ### Wield your new powers
 
