@@ -15,7 +15,7 @@ These privileges include:
 
 ### Contact the Web Team
 
-Once you have _created_ and _verified_ your new account, contact **[Jason Chafin](https://campusdirectory.ucsc.edu/cd_detail?uid=jchafin)** on the **C&M Web Team**. Let him know what group you administer and he will grant you the proper permissions to administer your group.
+Once you have _created_ and _verified_ your account, contact **[Jason Chafin](https://campusdirectory.ucsc.edu/cd_detail?uid=jchafin)** on the **C&M Web Team**. Let him know what group you administer and he will grant you the proper permissions to administer your group.
 
 ### Wield your new powers
 
