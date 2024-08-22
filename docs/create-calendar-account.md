@@ -6,11 +6,11 @@ order: 1
 
 Create an account using your **@ucsc.edu** email account.
 
-![events-login-link](https://user-images.githubusercontent.com/1000543/221927507-b822298e-b9d8-4354-a45f-da0fee6da67f.png)
+![events-login-link](assets/images/events-cal-login.png)
 
 You may create a user account using your own password with your UCSC email account. You may also "Login with Google" and select your UCSC email to create an account.
 
-![events-create-account-screen](https://user-images.githubusercontent.com/1000543/221927726-750575da-1355-41e7-851c-fec49374ff2e.png)
+![events-create-account-screen](assets/images/events-cal-become-member.png)
 
 Once you create an account, you will get an email asking you to verify your new account. _**Please check your email inbox** (please also check your spam folder_).
 
