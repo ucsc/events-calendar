@@ -50,16 +50,17 @@ And the generated embed code will appear that can be copied and pasted into your
 
 ![widget-generated-embed](https://user-images.githubusercontent.com/1000543/217968107-26e565aa-4a6e-4a52-879b-745b0676b70d.png)
 
-#### Pro Tip: Remove Localist branding footer
-
-The default embed code includes a footer that brands your embed as coming from Localist.
-
-![widget-localist-branding](https://user-images.githubusercontent.com/1000543/217972038-51f953e2-f995-404b-b923-34e8a15011f4.png)
-
-Prior to copying the embed code, you may remove this branding footer. Select all the code between `<div id="lclst_widget_footer">` and its closing `</div>` and delete it.
-
-![widget-remove-localist](https://user-images.githubusercontent.com/1000543/217972799-fc492cd5-dcfe-4902-b1ed-40fbd80b36ec.png)
-
-Then copy the remaining code.
-
-![widget-copy-embed-code](https://user-images.githubusercontent.com/1000543/218110846-abb2ce23-d425-469e-86c7-567aaabc5571.png)
+> [!tip]
+> **Remove Localist branding footer**
+>
+>The default embed code includes Localist branding as a footer:
+>
+>![widget-localist-branding](https://user-images.githubusercontent.com/1000543/217972038-51f953e2-f995-404b-b923-34e8a15011f4.png)
+>
+>Prior to copying the embed code, you may remove this branding footer. Select all the code between `<div id="lclst_widget_footer">` and its closing `</div>` and delete it.
+>
+>![widget-remove-localist](https://user-images.githubusercontent.com/1000543/217972799-fc492cd5-dcfe-4902-b1ed-40fbd80b36ec.png)
+>
+>Then copy the remaining code.
+>
+>![widget-copy-embed-code](https://user-images.githubusercontent.com/1000543/218110846-abb2ce23-d425-469e-86c7-567aaabc5571.png)
