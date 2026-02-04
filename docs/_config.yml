@@ -7,10 +7,11 @@ url: "https://ucsc.github.io/events-calendar/"
 remote_theme: pages-themes/cayman@v0.2.0
 google_analytics: false
 plugins:
-- jekyll-remote-theme
-- jekyll-seo-tag
-- jekyll-sitemap
-- jekyll-assets
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-assets
+  - jekyll-gfm-admonitions
 
 # Build settings
 markdown: kramdown
@@ -25,4 +26,3 @@ admin:
   admin_div: "University Relations"
   admin_url: "https://campusdirectory.ucsc.edu/cd_detail?uid=jchafin"
   admin_email: "jchafin@ucsc.edu"
-  

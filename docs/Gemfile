@@ -1,0 +1,12 @@
+source "https://rubygems.org"
+
+gem "jekyll", "~> 3.9"
+gem "jekyll-remote-theme"
+gem "jekyll-seo-tag"
+gem "jekyll-sitemap"
+gem "jekyll-assets"
+gem "jekyll-gfm-admonitions"
+
+group :jekyll_plugins do
+  gem "github-pages"
+end
